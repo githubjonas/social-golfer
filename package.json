@@ -1,0 +1,20 @@
+{
+  "name": "social-golfer",
+  "version": "0.1.0",
+  "description": "Attempt to mitigate the \"social golfer\" problem",
+  "main": "SocialGolfer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "'social",
+    "golfer'",
+    "tee",
+    "golf",
+    "golfer"
+  ],
+  "author": "Jonas Persson",
+  "license": "MIT"
+}
