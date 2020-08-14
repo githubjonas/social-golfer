@@ -15,3 +15,6 @@ In a golf club, there are x social golfers, each of whom plays golf for a number
     
     const slg = new SocialGolfer(players, rounds);
     const solution = slg.generate();
+
+## Demo
+    node demo/app.js
