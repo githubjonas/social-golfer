@@ -4,7 +4,7 @@
   "description": "Attempt to mitigate the \"social golfer\" problem",
   "main": "SocialGolfer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter list"
   },
   "keywords": [
     "node",
@@ -17,5 +17,9 @@
   ],
   "author": "Jonas Persson",
   "license": "MIT",
-  "homepage": "https://github.com/githubjonas/social-golfer"
+  "homepage": "https://github.com/githubjonas/social-golfer",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
 }
